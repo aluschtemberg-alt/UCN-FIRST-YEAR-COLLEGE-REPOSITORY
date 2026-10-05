@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson 2.md",
+                "file": "MATHEMATICS IN THE MODERN WORLD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 2"
+              "title": "MATHEMATICS IN THE MODERN WORLD"
             }
           }
         ]
@@ -201,7 +201,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d56fb8ce985c530b",

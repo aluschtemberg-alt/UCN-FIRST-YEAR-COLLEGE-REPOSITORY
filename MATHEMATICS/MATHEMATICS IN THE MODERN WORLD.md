@@ -1,1 +1,1 @@
-Mathematics
+Mathematics is dumb
