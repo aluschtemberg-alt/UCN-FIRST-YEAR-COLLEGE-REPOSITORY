@@ -4,40 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4d7efcbfb4885762",
+        "id": "a49c363275f385a0",
         "type": "tabs",
         "children": [
           {
-            "id": "d56fb8ce985c530b",
+            "id": "292cdca717f30f8a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "99a505bc29e12cf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS IN THE MODERN WORLD.md",
+                "file": "Lesson 1/Lesson 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATHEMATICS IN THE MODERN WORLD"
+              "title": "Lesson 1"
             }
           }
-        ]
-      },
-      {
-        "id": "b445f44f1393a2e0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6ab7db660372c789",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,13 +196,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d56fb8ce985c530b",
+  "active": "99a505bc29e12cf0",
   "lastOpenFiles": [
-    "Lesson 1.md",
-    "Lesson 2.md",
-    "MATHEMATICS IN THE MODERN WORLD.md"
+    "MATHEMATICS IN THE MODERN WORLD.md",
+    "Lesson 1/Lesson 1.md",
+    "Lesson 1",
+    "Untitled.md",
+    "Lesson  1  -",
+    "Lesson 2.md"
   ]
 }
